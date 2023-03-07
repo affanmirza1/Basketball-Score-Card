@@ -1,4 +1,4 @@
-#### Basketball Scoreboard 
+## Basketball Scoreboard 
 
 Game Score Card to track the result.
 
