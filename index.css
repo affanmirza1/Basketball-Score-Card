@@ -30,8 +30,8 @@ body {
     justify-content: space-around;
 }
 
-button {
-    background: none;
+:hover button {
+    background: white;
 }
 
 
